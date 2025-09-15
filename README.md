@@ -140,8 +140,8 @@ npm start
 
 ## 6. Imagens de Tela:
 
-![Lista Principal](imagens/TelaLista.png)
+![Lista Principal](images/TelaLista.png)
 ---
-![Tela Cadastro](imagens/TelaCadastro.png)
+![Tela Cadastro](images/TelaCadastro.png)
 ---
-![Tela Atualizar](imagens/TelaAtualizar.png)
+![Tela Atualizar](images/TelaAtualizar.png)
