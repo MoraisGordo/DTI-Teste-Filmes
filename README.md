@@ -136,3 +136,12 @@ npm start
 - Clicar no ícone de **lixeira** na tabela
 - Confirmar remoção no modal (`ConfirmDelete.tsx`)
 - O filme é removido via `DELETE`
+
+
+## 6. Imagens de Tela:
+
+![Lista Principal](imagens/TelaLista.png)
+---
+![Tela Cadastro](imagens/TelaCadastro.png)
+---
+![Tela Atualizar](imagens/TelaAtualizar.png)
